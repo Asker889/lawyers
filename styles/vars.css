@@ -1,0 +1,10 @@
+/* colors */
+:root {
+	--white: #fff;
+	--blue: #4f8ff0;
+	--dark: #222;
+	--black: #111;
+	--gray: #e6e6e6;
+	--second-bg: color-mix(in srgb, var(--white) 90%, grey); 
+
+}
